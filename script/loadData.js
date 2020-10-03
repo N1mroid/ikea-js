@@ -1,3 +1,5 @@
+import { getData } from "./getData.js";
+
 const wishlist = ["idd100", "idd056", "idd044", "idd077"];
 
 const cartlist = [
