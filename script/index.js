@@ -12,4 +12,4 @@ generateFooter();
 generateCatalog();
 generateSubCatalog();
 app();
-loadData();
+// loadData();
